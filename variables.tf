@@ -1,4 +1,4 @@
-varibale "dev_rg" {
+variable "dev_rg" {
   type = string
   description = "Assigning DEV RGname"
 }
